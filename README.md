@@ -1,13 +1,4 @@
 ---
-title: README
-emoji: 📊
-colorFrom: blue
-colorTo: gray
-sdk: static
-pinned: false
-license: apache-2.0
-short_description: AI-Powered Consultancy, Personalized Laptop Recommendations
----
 # 🎓💻 GradGear - AI-Powered Laptop Consultancy
 
 <div align="center">
@@ -122,3 +113,4 @@ We welcome collaboration with:
 *Bridging the gap between complex technology choices and user-friendly recommendations*
 
 </div>
+
